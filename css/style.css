@@ -15,6 +15,7 @@
     justify-content: center;
     text-align: center;
     align-items: center;
+    margin-bottom: 70px;
 }
 .banner-titel{
     font-size: 65px;
@@ -45,3 +46,125 @@
 /*************************
  banner section styles end
  *************************/
+
+/*******************************
+ My failures section styles start
+ *******************************/
+.failuer-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.failuer-img img{
+    width: 400px;
+}
+.failuer-part{
+    width: 400px;
+    margin-top: 130px;
+}
+.failuer-titel{
+    font-weight: 700;
+    font-size: 40px;
+    color: black;
+    padding: 3px;
+    margin-right: 110px;
+}
+.failuer-decription{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding: 10px 11px;
+}
+.icon-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding: 3px
+}
+.icon-description-one{
+    margin-right: 90px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding: 3px
+}
+.icon-description-two{
+    margin-right: 35px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding: 3px
+}
+.icon-description-four{
+    margin-right: 80px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding: 3px
+}
+.icon-description-three{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.icon-content{
+    margin-right: 60px;
+}
+.icon{
+    color: #16D887;
+}
+/*******************************
+ My failures section styles end
+ *******************************/
+
+/*******************************
+ My plan section styles end
+ *******************************/
+.plan-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+.web-devlopment > img{
+    margin-left: 85px;
+}
+.plan-titel{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.common-titel{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    padding: 6px 5px;
+}
+.common-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+    text-align: center;
+}
+.web-javascript > img{
+    margin-left: 18px;
+}
+.smoking-habit > img{
+    margin-left: 50px;
+}
+.ecommerce > img{
+    margin-left: 15px;
+}
+
+
+
+
+
+
+/*******************************
+ My plan section styles end
+ *******************************/
+
+ 
