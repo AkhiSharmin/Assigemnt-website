@@ -25,7 +25,7 @@
 .banner-part{
     position: absolute;
     left: 851px;
-    top: 230px;
+    top: 200px;
     padding: 20px 40px;
 }
 .banner-description{
@@ -185,8 +185,10 @@
     width: 350px;
     height: 430px;
     background-color: #FFFFFF;
-    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,30,1) 0%, rgba(9,9,121,1) 25%, rgba(0,212,255,1) 100%);
     border-radius: 10px;
+    color: #FFFFFF;
 }
 .blog-text{
     padding: 15px;
